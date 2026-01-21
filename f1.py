@@ -1,2 +1,4 @@
-print(8)
-print(18)
+
+x=5
+y=8
+print(x/2**y)
