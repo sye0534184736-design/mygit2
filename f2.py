@@ -3,6 +3,6 @@
 num=2
 sum=5
 for i in range(sum):
-    num*=i
+    num*=i+1
 
 print(num)
