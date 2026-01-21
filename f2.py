@@ -6,8 +6,9 @@ for i in range(sum):
     num*=i+1
 
 print(num)
-print("yada yada")
+b=("yada yada")
 
 
 f=55
-print(f*num)
+a=(f*num)
+print(b,a)
