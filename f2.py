@@ -7,3 +7,7 @@ for i in range(sum):
 
 print(num)
 print("yada yada")
+
+
+f=55
+print(f*num)
